@@ -6,7 +6,7 @@ This project focuses on leveraging the power of PySpark within the Databricks en
 ![](https://i.postimg.cc/L6B5pG38/pngwing-com-2-2.png) 
 ![](https://i.postimg.cc/ydYXmF6F/pngwing-com-1-1.png)
 ![](https://i.postimg.cc/gJ6pzt1J/spark-sql-logo.png)
-![](https://i.postimg.cc/NfDyTLPc/download.jpg)
+<br> ![](https://i.postimg.cc/NfDyTLPc/download.jpg)
 
 ## Project Architecture
 ![Project Architecture](https://i.postimg.cc/QNcSpRwh/Spark-IPL-Data-Analysis-Project-Architecture.jpg)
