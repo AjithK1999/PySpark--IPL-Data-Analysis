@@ -16,5 +16,6 @@ This project focuses on leveraging the power of PySpark within the Databricks en
 The IPL dataset up to the year 2017 was sourced from data.world. Using robust extraction techniques, the data was meticulously gathered and prepared for subsequent stages of processing.
 ### 2. Data Loading
 Once extracted, the dataset was securely stored in designated Amazon S3 buckets. This ensured efficient management and accessibility of the dataset for further processing and analysis
-### 2. Data Transformation
+### 3. Data Transformation
 Utilizing the powerful capabilities of Databricks, the data underwent comprehensive transformations to enhance its quality and relevance. Complex analyses were conducted to derive valuable insights, facilitating informed decision-making. Additionally, sophisticated visualization techniques were applied to present these insights in a clear and intuitive manner, aiding businesses in their understanding and utilization of the extracted data.
+### 3. Data Visualization
