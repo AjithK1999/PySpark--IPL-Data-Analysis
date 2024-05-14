@@ -3,6 +3,7 @@ This project focuses on leveraging the power of PySpark within the Databricks en
 
 ## Tools and Frameworks used
 ![](https://i.postimg.cc/1XsBYLKN/pngwing-com-3.png) 
+![](https://raw.githubusercontent.com/AjithK1999/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original-wordmark.svg)
 ![](https://i.postimg.cc/L6B5pG38/pngwing-com-2-2.png) 
 ![](https://i.postimg.cc/ydYXmF6F/pngwing-com-1-1.png)
 ![](https://i.postimg.cc/gJ6pzt1J/spark-sql-logo.png)
